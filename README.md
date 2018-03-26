@@ -72,8 +72,6 @@ show_print(self,t,data)
 
 ```
 
-```
-
 ## History
 
 - data 2018-3-23
